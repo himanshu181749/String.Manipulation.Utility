@@ -1,0 +1,12 @@
+{
+  "name": "string.manipulation.utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
